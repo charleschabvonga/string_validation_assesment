@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555405457 source:c:\users\charleschad\downloads\compressed\neslo tech coding challenges\string_validation\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
